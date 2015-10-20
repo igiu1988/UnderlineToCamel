@@ -1,6 +1,11 @@
 # UnderlineToCamel
 将下滑线命名的 key 转为驼峰
 
+
+## 使用
+拷贝原来的 key，在需要的地方粘贴
+
+## 创建
 * 打开 automator，创建服务
 * 依照下面截图创建。其中的 shell script 在最下方
 
